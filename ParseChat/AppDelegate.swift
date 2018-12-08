@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  ParseChat
 //
-//  Created by German Flores on 2/28/18.
+//  Created by German Flores on 12/07/18.
 //  Copyright © 2018 German Flores. All rights reserved.
 //
 
