@@ -2,7 +2,7 @@
 
 **ParseChat** is a Chat app using an [open source Parse](http://parseplatform.org/) backend.
 
-Time spent: **6** hours spent in total
+Time spent: **2** hours spent in total
 
 ## User Stories
 
